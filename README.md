@@ -120,4 +120,4 @@ The API includes comprehensive error handling for:
 
 ## License
 
-MIT 
+MIT # student-mangement-api
